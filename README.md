@@ -1,1 +1,1 @@
-# Scotiabank-DSDD
+# Scotiabank Data Science Discovery Days
